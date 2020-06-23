@@ -10,3 +10,9 @@
 
 #### ## 案例
 
+argocd-operator
+
+https://github.com/argoproj-labs/argocd-operator
+
+
+
